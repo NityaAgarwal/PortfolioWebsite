@@ -1,0 +1,50 @@
+these are the changes, and where i have made them in the 
+files to change the overall theme of the files
+
+hero.module.css - 
+you'll have to mention their colours in vars.css
+otherwise individually change karna padega
+bacground property for - 
+topBlur og - rgb(25, 55, 109, 0.7)
+bottomBlur og - rgb(25, 55, 109, 0.7)
+
+about.module.css - 
+container bg colour original - background-color: #031022
+
+navbar.module.css - 
+menutItems mai - /* background: rgb(25, 55, 109); */
+
+
+EXTRA THEMES - 
+/* desert theme */
+    --color-text: #fff;
+    --color-primary: hsl(33.75, 66.5%, 61.4%);
+    --color-blur:hsl(33.75, 53.25%, 30.35%);
+    --color-secondary: hsl(33.75, 40%, 7.84%);
+    --color-dark:hsl(33.75, 40%, 20%);
+    /* --color-dark:hsl(33.75, 40%, 5%);  */
+    --color-bg: rgb(34, 40, 49);
+
+/* og theme colours */
+    --color-text: #fff;
+    --color-primary: #576cbc;
+    --color-secondary: #19376d;
+    --color-bg:#04152d;
+    --color-dark:#0b2447;
+
+og teal theme  - khudki banai huyi (dark version, default)
+--color-text: #fff;
+    --color-primary: hsl(180.43, 100%, 72.94%);
+    --color-blur:hsl(185.05, 25.76%, 30%);
+    --color-blur-bright:hsl(183.21, 25.69%, 57.25%);
+    --color-dark:hsl(225, 6%, 13%);
+    --color-secondary: hsl(180, 13%, 18%);
+    --color-bg:hsl(33.75, 40%, 0%) ;
+
+teal theme light version - chatgpt
+/* chatgpt's corresponding light theme */
+--color-blur: hsl(185.05, 25.76%, 85%); /* Lighter shade for blur effect */
+--color-blur-bright: hsl(183.21, 25.69%, 95%); /* Brighter for contrast */
+--color-dark: hsl(225, 6%, 90%); /* Light grey for dark elements */
+--color-secondary: hsl(180, 13%, 75%); /* Softer secondary color */
+--color-bg: hsl(33.75, 40%, 98%); /* Very light background color */

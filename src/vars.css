@@ -1,0 +1,53 @@
+:root {
+
+    /* red based theme */
+    /* --color-text: #fff;
+    --color-primary: #e63946;
+    --color-secondary: #d90429;
+    --color-bg:#2b2d42;
+    --color-dark:#1a1b26;   */
+    
+    
+    /* teal theme */
+    --color-text: #fff;
+    --color-primary: hsl(180.43, 100%, 72.94%);
+    --color-blur:hsl(185.05, 25.76%, 30%);
+    --color-blur-bright:hsl(183.21, 25.69%, 57.25%);
+    --color-dark:hsl(225, 6%, 13%);
+    --color-secondary: hsl(180, 13%, 18%);
+    --color-bg:hsl(33.75, 40%, 0%) ;
+
+    /* light theme */
+    /* --color-text: hsl(33.75, 40%, 0%); original */
+    /* --color-text:#FFFFF0;
+    --color-blur:hsl(184, 59%, 85%);
+    --color-blur-bright:hsl(184, 59%, 85%);
+    --color-dark:hsl(186, 13%, 33%);
+    --color-secondary: hsl(185, 14%, 53%);
+    --color-bg:#FFFFF0; */
+
+    /* 
+    in light theme, 
+    contact - all text needs to be white. 
+    welcome(hero) section - greeting changed to the 
+    */
+
+    
+
+
+    /*
+    light theme bg options - 
+    #F8F8FF
+    #FFFAFA
+    */
+
+
+    /* black, yellow, white, grey theme
+    yellow - rgb(222 166 91);
+    black - 0 0 0 or 15 15 15 1
+    https://remix.supply/unlimited?ref=onepagelove
+    */
+
+    /* fonts */
+    --font-roboto: "Roboto";
+}
