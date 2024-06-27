@@ -59,4 +59,8 @@ a:visited {
         flex-direction: column;
         align-items: center;
     }
+
+    .message {
+    font-size: 1.5rem;
+    }
 }
