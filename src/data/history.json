@@ -1,4 +1,12 @@
 [
+      {
+    "role": "Web Development Internship",
+    "organisation": "TECH Octanet",
+    "startDate": "Jul, 2024 ",
+    "endDate": "Aug, 2024",
+    "experiences": ["Building web apps using industry prevalent technology and best practices"],
+    "imageSrc": "history/octanet.png"
+  },
     {
         "role": "Micro-Internship",
         "organisation": "IBM SkillsBuild and CSRBOX",
